@@ -1,2 +1,2 @@
-# Banner-300x250
+# Banner-ads
 ads
